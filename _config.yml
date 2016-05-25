@@ -1,0 +1,28 @@
+name: Fascinate Me
+favicon: null
+layout_spectrum: 0.5424976779613644
+typography_spectrum: 0.20472605456598103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1050672815181315
+  lightness: 0.22975968499667943
+  saturation: 0.4500187155790627
+  rhythmicContrast: 0.7832979052327573
+purpose: []
